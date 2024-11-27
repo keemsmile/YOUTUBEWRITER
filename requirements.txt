@@ -1,0 +1,8 @@
+openai==1.33.0
+swarm==0.1.0
+youtube-transcript-api==0.6.1
+streamlit==1.29.0
+langchain==0.0.339
+beautifulsoup4==4.12.2
+requests==2.31.0
+python-slugify==8.0.1
